@@ -1,0 +1,17 @@
+02-04-2026 14:42:53 - File copied: teste1
+02-04-2026 14:42:53 - File copied: teste2
+02-04-2026 14:43:23 - File removed: teste3
+05-04-2026 19:13:42 - File removed: teste3
+05-04-2026 19:20:41 - File copied: teste3
+05-04-2026 19:21:31 - File copied: source\teste4
+06/04/2026 18:05:43 - File removed: teste3
+06/04/2026 18:05:43 - File removed: teste4
+09/04/2026 11:00:23 - File removed: replica\teste2
+09-04-2026 11:01:55 - File copied: source\teste2
+09-04-2026 11:01:55 - File copied: source\teste3
+09/04/2026 11:03:26 - File copied: source\teste2
+09/04/2026 11:03:26 - File copied: source\teste3
+09/04/2026 11:04:43 - Replica folder was created
+09/04/2026 11:04:43 - File copied: source\teste1
+09/04/2026 11:04:43 - File copied: source\teste2
+09/04/2026 11:04:43 - File copied: source\teste3
